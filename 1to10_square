@@ -1,12 +1,3 @@
-# Python on Colab
-* First time
-  * One
-  * Two
-  * Three
-* Second time
-
-## Markdown Language <-> github
-
 x = range(10)
 for value in x :
   print(value*value)
